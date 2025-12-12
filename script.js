@@ -7,7 +7,7 @@ async function getScript() {
     let data = await res.json();
 
     // 2. Send user to your Linkvertise with the token data
-    let lv = "https://linkvertise.com/1459655/dfYu5W7QPzYc";
+    let lv = "https://direct-link.net/1461355/GJzudxc5os2X";
 
     let redirectURL =
       lv +
